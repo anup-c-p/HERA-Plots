@@ -24,8 +24,8 @@ top_scint_flight_seg3_fp = f'{DATA_DIR}/left_AxLab_M_038_flight_seg3.txt' # @par
 mid_scint_flight_seg3_fp = f'{DATA_DIR}/middle_AxLab_M_037 copy_flight_seg3.txt' # @param {type:"string"}
 bot_scint_flight_seg3_fp = f'{DATA_DIR}/right_AxLab_M_038 copy_flight_seg3.txt' # @param {type:"string"}
 
-top_scint_feb1_fp = f'{DATA_DIR}/AxLab_M_019_top.txt' # @param {type:"string"}
-mid_scint_feb1_fp = f'{DATA_DIR}/AxLab_M_019_mid.txt' # @param {type:"string"}
+top_scint_feb1_fp = f'{DATA_DIR}/AxLab_M_020_top.txt' # @param {type:"string"}
+mid_scint_feb1_fp = f'{DATA_DIR}/AxLab_M_020_mid.txt' # @param {type:"string"}
 
 
 #======================================================================================================================================
